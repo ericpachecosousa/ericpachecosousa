@@ -19,7 +19,7 @@ Currently being challenged as an IT manager in a renowned company in the state.
 
 
 🔭 I’m currently working on GFT Group</Br>
-🌱 I’m currently learning ASP.NET CORE and NodeJs
+🌱 I’m currently learning ASP.NET CORE and AWS.
 
 
 
