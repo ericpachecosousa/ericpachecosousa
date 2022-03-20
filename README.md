@@ -18,10 +18,7 @@ Currently being challenged as an IT manager in a renowned company in the state.
 </p>
 
 
-🔭 I’m currently working on Bonor Industria de Botoes</Br>
-<a href="https://www.bonor.com.br/">Link site company</a></Br>
-<a href="https://representante.bonor.com.br/">Link site sales</a>
-</br>
+🔭 I’m currently working on GFT Group</Br>
 🌱 I’m currently learning ASP.NET CORE and NodeJs
 
 
