@@ -17,8 +17,6 @@ Good logical reasoning and aims for the simplest approach to problem-solving.
 Currently being challenged as an IT manager in a renowned company in the state.
 </p>
 
-
-🔭 I’m currently working on GFT Group</Br>
 🌱 I’m currently learning ASP.NET CORE and AWS.
 
 
