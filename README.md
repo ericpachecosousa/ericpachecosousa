@@ -14,7 +14,6 @@ Multilingual programmer specializing in different languages ​​such as C#, PH
 
 Good logical reasoning and aims for the simplest approach to problem-solving.
 
-Currently being challenged as an IT manager in a renowned company in the state.
 </p>
 
 🌱 I’m currently learning ASP.NET CORE and AWS.
