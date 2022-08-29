@@ -5,7 +5,7 @@
 </a>
 <h3>About</h3>
 <p>
-Focused developer with over 5 years of experience, always looking for new technologies and challenges to improve skills.
+Focused developer with over 7 years of experience, always looking for new technologies and challenges to improve skills.
 
 Multilingual programmer specializing in different languages ​​such as C#, PHP, JS, Vue, HTML, and CSS.
 
