@@ -13,7 +13,7 @@ Good logical reasoning and aims for the simplest approach to problem-solving.
 
 </p>
 
-🌱 I’m currently learning ASP.NET CORE and AWS.
+🌱 I’m currently learning ASP.NET CORE and AWS and TerraForm
 
 
 
@@ -33,7 +33,7 @@ Good logical reasoning and aims for the simplest approach to problem-solving.
     <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/431a35f2224f9af72d1bb857498b40e0843f0019f09dd356e3dc25e78d6ca813/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f646f742d6e65742d6f726967696e616c2d776f72646d61726b2e737667"><img src="https://camo.githubusercontent.com/431a35f2224f9af72d1bb857498b40e0843f0019f09dd356e3dc25e78d6ca813/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f646f742d6e65742d6f726967696e616c2d776f72646d61726b2e737667" alt=".NET" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" style="max-width: 100%;"></a>
     <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/1513e94cd7b84f2536d7ba959d5e2c28cd951d1a015ff39571e503dfc9f45751/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6373686172702d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/1513e94cd7b84f2536d7ba959d5e2c28cd951d1a015ff39571e503dfc9f45751/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6373686172702d6f726967696e616c2e737667" alt="C#" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" style="max-width: 100%;"></a>
     <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e6e7e4e720421db277c77244ec2cdbc925f09ee2555a718b061f7063ed8c6799/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f66697265626173652e706e67"><img src="https://camo.githubusercontent.com/e6e7e4e720421db277c77244ec2cdbc925f09ee2555a718b061f7063ed8c6799/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f66697265626173652e706e67" alt="Firebase" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/firebase.png" style="max-width: 100%;"></a>  
-  
+      <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e6e7e4e720421db277c77244ec2cdbc925f09ee2555a718b061f7063ed8c6799/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f66697265626173652e706e67"><img src="https://camo.githubusercontent.com/e6e7e4e720421db277c77244ec2cdbc925f09ee2555a718b061f7063ed8c6799/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f66697265626173652e706e67" alt="Terraform" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/terraform.png" style="max-width: 100%;"></a>  
 </div>
 
 
