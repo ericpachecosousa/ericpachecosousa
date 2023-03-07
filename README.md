@@ -7,13 +7,13 @@
 <p>
 Focused developer with over 7 years of experience, always looking for new technologies and challenges to improve skills.
 
-Multilingual programmer specializing in different languages ​​such as C#, PHP, JS, Vue, HTML, and CSS.
+Multilingual programmer specializing in different languages ​​such as C#, PHP, JS, Vue, HTML, CSS , Python and Node.
 
 Good logical reasoning and aims for the simplest approach to problem-solving.
 
 </p>
 
-🌱 I’m currently learning ASP.NET CORE and AWS and TerraForm
+🌱 I’m currently learning ASP.NET CORE, AWS, TerraForm and Node.js.
 
 
 
